@@ -1,0 +1,8 @@
+# encoding: utf-8
+
+CDN_A_HOST = 'A'
+CDN_A_WEIGHT = 10
+CDN_B_HOST = 'B'
+CDN_B_WEIGHT = 20
+ORIGIN_HOST = ' '
+ORIGIN_WEIGHT = 1
